@@ -1,4 +1,7 @@
-# Event_Organizer_App
+#                                            EVENT ORGANIZER
+#                                      Copyright 2024 Usman Aslam
+#                              Licensed under the Apache License, Version 2.0
+
 
 Welcome to the Event Organizer project! This application is designed to help you manage and track guests at events. It provides functionality for adding guests, updating and filtering guest lists, scanning QR codes, and sending invitations via email. Here's a comprehensive guide on how to set up, use, and understand this project.
 
@@ -47,7 +50,7 @@ To install missing packages, use the following command:
 Clone the repository to your local environment:
 
 "git clone <repository-url>"
-"cd <repository-name>"
+"cd Event_Organizer_App"
 
 Ensure you have all dependencies installed (see Dependencies).
 Run the application:
